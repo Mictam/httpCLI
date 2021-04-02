@@ -11,9 +11,17 @@ _-> go test_
 
 
 Example usage:
+
 httpCLI run --file <index.html> 
 
+
 Available Commands: 
-version                       Displays app version info
-help                          Help about any command
-run [--file <index.html>]     Runs http server that serves alternate html file (file must be in current catalog or filepath)
+
+
+version                                                      Displays app version info
+
+
+help                                    Help about any command
+
+
+run [--file <index.html>]               Runs http server that serves alternate html file (file must be in current catalog or filepath)
